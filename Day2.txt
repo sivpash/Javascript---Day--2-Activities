@@ -1,0 +1,3 @@
+The document represent the web page which used to access, change and manipulate the content in the  web page such as html,text, image,etc. on the other hand window object
+represent the web browser and that window contains the web page and these window object is used to resize the window size, opeing a new tab and working on the other window 
+pages.These window object provide access to document.
